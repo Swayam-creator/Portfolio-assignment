@@ -119,27 +119,6 @@ This project pulls your real contribution data via GitHub’s GraphQL API (via `
 
 ---
 
-## ✅ Deployment
 
-This project is deployed on Vercel. Commit your changes to `main` branch, push to GitHub and Vercel will automatically build & deploy.
-Make sure your environment variables are configured in Vercel too.
 
----
 
-## 📛 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to explore, fork and use it in your own portfolio!
-
----
-
-Thanks for visiting — enjoy exploring!
-*Swayam Allewar*
-
-```
-
----
-
-If you like, I can also generate a **LICENSE file template** and **badge icons** (CI, version, etc.) for the README.
-::contentReference[oaicite:0]{index=0}
-```
