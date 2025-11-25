@@ -1,8 +1,4 @@
-Here’s a solid **README.md template** for your `Portfolio-assignment` repo. You can paste this into `README.md` at the root of your project and adjust details (links, dates, etc.) as needed.
 
----
-
-````markdown
 # Swayam Allewar – Full Stack Developer Portfolio
 
 Welcome to my portfolio website! This project showcases my web-development skills, hackathon wins, AI-powered projects and full-stack expertise through a sleek, modern demo built with Next.js and Tailwind CSS.
