@@ -70,12 +70,7 @@ export default function HeroSection() {
           >
             Explore My Work
           </a>
-          <a
-            href="#contact"
-            className="px-8 py-3 border border-cyan-500 text-cyan-400 rounded-full font-semibold hover:bg-cyan-500/10 transition-all duration-300"
-          >
-            Get In Touch
-          </a>
+         
         </div>
 
         <div className="animate-bounce">

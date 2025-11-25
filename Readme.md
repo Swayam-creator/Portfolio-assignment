@@ -30,7 +30,7 @@ Welcome to my portfolio website! This project showcases my web-development skill
 - npm / pnpm or yarn  
 - Git
 
-### Installation
+## Installation
 
 1. Clone the repo  
    ```bash
