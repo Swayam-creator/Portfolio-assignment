@@ -15,7 +15,7 @@ Welcome to my portfolio website! This project showcases my web-development skill
 - [Resend](https://resend.com) email API for contact form submissions  
 - GitHub GraphQL API for contribution stats display  
 - Deployment via Vercel
-
+   - [Vercel deployed link](https://vercel.com/swayam-allewars-projects/portfolio-assignment/7XZpWyEHCm6Cezaas3vdxZETi8J1) Link for Submission
 ## 📂 Features
 
 - Home / About / Projects / Skills / Contact sections  
