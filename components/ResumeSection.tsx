@@ -40,7 +40,7 @@ export default function ResumeSection() {
                   Open in new tab
                 </a>
                 <a
-                  href="/resume.pdf"
+                  href="/Resume.pdf"
                   download
                   className="inline-flex items-center gap-1 text-[11px] md:text-xs px-2 py-1 rounded-md bg-cyan-500/20 border border-cyan-500/50 text-cyan-100 hover:bg-cyan-500/30 transition-colors"
                 >
@@ -60,7 +60,7 @@ export default function ResumeSection() {
           
             <div className="bg-space-950/80">
               <iframe
-                src="/resume.pdf"
+                src="/Resume.pdf"
                 className="w-full h-[520px] md:h-[640px] bg-space-950"
                 title="Resume Preview"
               />
